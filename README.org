@@ -1,0 +1,6 @@
+* Improving ProbLog's learning from interpretations algorithm
+
+The goal of this project is the enhance ProbLog by introducing exact calculations for parameters
+in the EM cycle of the `lfi.py` file.
+
+This repository contains only the files that were changed to make the nem implementations.
